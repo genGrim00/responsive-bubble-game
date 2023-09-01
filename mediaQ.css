@@ -1,0 +1,36 @@
+@media (max-width: 600px) {
+  .main{
+    height: 100%;
+    width: 100%;
+  }
+
+  .panel{
+    height: 70%;
+  }
+
+  .panel-top{
+    height: 15vw;
+  }
+
+  .box{
+    font-size: 3vw;
+    padding: 1.5vw 2.5vw;
+  }
+
+  .panel-top h2{
+    font-size: 3vw;
+    font-weight: 700;
+    margin-right: .5vw;
+  }
+
+  .panel-bottom{
+    height: calc(100% - 15vw);
+  }
+
+  .bubble{
+    font-size: 3vw;
+    height: 7.2vw;
+    width: 7.2vw;
+  
+  }
+}
